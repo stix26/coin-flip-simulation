@@ -15,13 +15,11 @@ Step 3 (Git clone): (Mac & Windows 10 Users) If you choose to clone the file ope
 Step 4: (Mac Users) Your terminal's directory should already be located on your desktop if not type cd Desktop and press enter
 
 
-Step 5: (Mac & Windows 10 Users) Go to your downloads folder and move the credit-card-validator folder to your desktop. Then open the credit-card-validator folder. Move the file credit_card_validator.py to your desktop. 
+Step 5: (Mac & Windows 10 Users) Go to your downloads folder and move the coin-flip-simulation folder to your desktop. Then open the coin-flip-simulation folder. Move the file coin_flip_simulation.py to your desktop. 
 
 
-Step 6: (Mac Users) (Type) python credit_card_validator.py and press enter
-        (Windows 10 Users) (Type) credit_card_validator.py
-
-
-Step 7: Enter 16 digit credit card number without any spaces (i.e. 1234567891234567) then press enter
+Step 6: (Mac Users) (Type) python coin_flip_simualation.py and press enter
+        (Windows 10 Users) (Type) coin_flip_simulation.py
+        
 
 ### Must have python 3.7.3 installed ###
